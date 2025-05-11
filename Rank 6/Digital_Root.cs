@@ -19,10 +19,5 @@ namespace CodeWars_GitHub.Rank_6
 
             return sum;
         }
-        public static int RecursiveRoot(long n)
-        {
-            string gigitStr = n.ToString();
-             
-        }
     }
 }
